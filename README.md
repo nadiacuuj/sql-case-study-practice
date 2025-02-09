@@ -9,7 +9,7 @@ This repository contains **SQL queries for case study-based database analysis**,
 - Identifying high-value customers based on order volume
 - Analyzing supplier revenue trends
 - Examining average freight costs for different shipping destinations  
-📂 **[Queries: `northwind_analysis.sql`](northwind/northwind_analysis.sql)**
+📂 **[Queries: `1-northwind-database_queries.sql`](1-northwind-database_queries.sql)**
 
 ### **2️⃣ Flights Database Analysis**
 **Objective:** Evaluate airline pricing strategies, route optimization, and carrier performance.  

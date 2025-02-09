@@ -17,7 +17,7 @@ This repository contains **SQL queries for case study-based database analysis**,
 - Finding high-traffic flight routes and fare trends
 - Analyzing airline carrier performance and market share
 - Identifying cost-efficient travel routes  
-📂 **[Queries: `flights_analysis.sql`](flights/flights_analysis.sql)**
+📂 **[Queries: `2-flights-database_queries.sql`](2-database_queries.sql)**
 
 ## 🛠️ How to Use
 1. Load the respective dataset (Northwind or Flights) into your **SQL environment** (MySQL, PostgreSQL, etc.).
